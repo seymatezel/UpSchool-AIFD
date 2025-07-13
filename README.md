@@ -111,10 +111,10 @@ Bu modeller ilk çalıştırmada Hugging Face üzerinden indirilecektir. İntern
 
 
 
-## ✨ Geliştirici Notu
+##  Geliştirici Notu
 
 > Bu proje eğitim ve kariyer gelişimi amaçlı hazırlanmıştır. AI tabanlı analiz çıktıları öneri niteliğindedir ve profesyonel kararlar için destekleyici olarak değerlendirilmelidir.
 
 Made with by Şeyma Tezel  
-💡 Streamlit + Hugging Face Transformers kullanılarak geliştirilmiştir.
+ Streamlit + Hugging Face Transformers kullanılarak geliştirilmiştir.
 
