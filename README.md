@@ -99,19 +99,7 @@ Bu modeller ilk çalıştırmada Hugging Face üzerinden indirilecektir. İntern
 
 ---
 
-## 📂 Dosya Yapısı
-
-```
-├── app.py                  # Streamlit uygulaması
-├── README.md               # Bu dosya
-└── requirements.txt        # Gerekli kütüphaneler (isteğe bağlı)
-```
-
----
-
-
-
-##  Geliştirici Notu
+## Not
 
 > Bu proje eğitim ve kariyer gelişimi amaçlı hazırlanmıştır. AI tabanlı analiz çıktıları öneri niteliğindedir ve profesyonel kararlar için destekleyici olarak değerlendirilmelidir.
 
