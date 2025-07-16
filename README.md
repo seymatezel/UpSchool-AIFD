@@ -5,7 +5,7 @@ Bu uygulama, kullanıcıların CV (özgeçmiş) metinlerini analiz ederek güçl
 
 ---
 
-## 🚀 Özellikler
+## Özellikler
 
 -  CV bilgisi metin olarak girilebilir ya da `.txt` dosyası olarak yüklenebilir
 -  Hugging Face modelleri ile AI/LLM (Large Language Model) tabanlı analiz
@@ -83,8 +83,8 @@ Bu modeller ilk çalıştırmada Hugging Face üzerinden indirilecektir. İntern
    Metin kutusuna CV metni yazın veya `.txt` uzantılı dosya yükleyin.
 
 2. **Analiz Yöntemini Seçin:**  
-   - 🤖 AI/LLM (gelişmiş, yorumlu analiz)  
-   - ⚡ Hızlı analiz (anahtar kelime tabanlı)
+   - AI/LLM (gelişmiş, yorumlu analiz)  
+   - Hızlı analiz (anahtar kelime tabanlı)
 
 3. **Analizi Başlatın:**  
    "🔍 Analiz Et" butonuna tıklayın.
